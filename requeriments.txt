@@ -1,0 +1,6 @@
+distlib==0.3.8
+filelock==3.16.0
+platformdirs==4.3.2
+setuptools==74.1.2
+virtualenv==20.26.4
+youtube-dl==2021.12.17
